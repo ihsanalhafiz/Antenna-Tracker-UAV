@@ -1,7 +1,7 @@
 # Antenna-Tracker-UAV
-Design System of Directional Finder Based nn Coordinates Mobile Remote System Using Moving Object Prediction Algorithm
+## Design System of Directional Finder Based nn Coordinates Mobile Remote System Using Moving Object Prediction Algorithm
 
-THis project is bachelor thesis project, when i took bachelor study in Engineering Physics at Universitas Gadjah Mada, Indonesia
+This project is bachelor thesis project, when i took bachelor study in Engineering Physics at Universitas Gadjah Mada, Indonesia
 
 ## block diagram system
 ![block diagram system](./Block-Diagram/diagram_block_MRS_DF.png)
